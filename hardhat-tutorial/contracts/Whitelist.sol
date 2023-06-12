@@ -23,7 +23,7 @@ contract Whitelist {
 
     /**
         addAddressToWhitelist - This function adds the address of the sender to the
-        whitelist
+        whitelist. Commit
      */
     function addAddressToWhitelist() public {
         // check if the user has already been whitelisted
